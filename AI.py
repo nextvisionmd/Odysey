@@ -11,7 +11,7 @@ age = 30
 
 # CODUL TĂU VINE MAI JOS:
 
-print('varsta mea este:', age )
+print('varsta mea estee:', age )
 
 # CODUL TĂU VINE MAI SUS:
 
